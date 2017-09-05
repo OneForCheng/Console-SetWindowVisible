@@ -2,13 +2,13 @@
 The console version of the settings window visible state.
 
 # Usage
-SetWindowVisible /?
+查看用法，命令行下输入'SetWindowVisible /?'
 
 设置窗体程序的可视化状态。
 
-SetWindowVisible /a
-SetWindowVisible /h
-SetWindowVisible PID [State]
+SetWindowVisible /a 
+SetWindowVisible /h 
+SetWindowVisible PID [State] 
 
     /a         显示所有进程信息。
     /h         显示已隐藏窗口的信息。
