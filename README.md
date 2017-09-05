@@ -1,5 +1,5 @@
 # SetWindowVisible
-The console version of the settings window visible state.
+一个设置可视窗口可视化状态（隐藏、显示、最大化、最小化等）的控制台程序。
 
 # Usage
 
